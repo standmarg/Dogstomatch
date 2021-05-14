@@ -1,0 +1,160 @@
+.bg-dark 
+{background-color: #2a3c94!important;}
+
+
+/* Style navigation menu links */
+.navbar-toggler{
+  color: white;  
+}
+
+body {
+  background-color:#fbe9d6;
+    
+}
+.navbar-toggler-icon
+{
+color:#ec9a33;
+}
+
+p.dashed
+{
+    background-color:#ec9a33;
+    width: 150px;
+  padding: 10px;
+    border-radius: 20px;
+  margin: auto;
+    font-family: verdana;
+font-size: 16x;
+color: white;
+text-align: center;
+}
+
+
+
+p.double 
+{
+    background-color:#ec9a33;
+    width: 250px;
+  padding: 10px;
+    border-radius: 20px;
+  margin: auto;
+    font-family: verdana;
+font-size: 16x;
+color: white!important;
+text-align: center;
+}
+
+p.ridge
+{
+    background-color:#c94c4e;
+    color: #ffffff;
+    width: 250px;
+  padding: 10px;
+ border-radius: 20px;
+  margin: auto;
+    font-family: verdana;
+font-size: 16x;
+
+text-align: center; 
+    }
+
+p.inset
+ {background-color:#2a3c94;
+    width: 250px;
+  padding: 10px;
+ border-radius: 20px;
+  margin: auto;
+    font-family: verdana;
+font-size: 16x;
+color: #ec9a33;
+text-align: center;
+    }
+
+h1 
+{
+    font-family: sans-serif;
+    font-size: 2em;
+font-weight: bolder;
+  color:#c94c4e;
+  text-align: center;
+    
+}
+
+h2 
+{
+  color:#c94c4e;
+  text-align: center;
+    font-size: 22x;
+}
+
+h3
+{
+font-family: verdana;
+color: #c94c4e;
+    }
+
+h4
+{
+color: #4d8872;
+}
+
+
+li
+{
+font-family: verdana;
+font-size: 16x;
+color: ##ec9a33;
+text-align: center; 
+    }
+
+.lead
+{
+font-family: verdana;
+font-size: 16x;
+color: #2a3c94;
+    }
+
+.tekst
+{
+font-family: verdana;
+font-size: 16x;
+color: black
+    }
+
+.bold
+{
+font-family: verdana;
+font-size: 16x;
+color: ##ec9a33;
+text-align: center; 
+    }
+
+.responsive {
+width: 100%;
+}
+
+
+footer {
+height: 10vh;
+position: relative;
+background: #2a3c94;
+color: white;
+text-align: center;   
+}
+
+.dog
+{
+font-family: verdana;
+font-size: 60x;
+     color: #ec9a33;
+text-align: center; 
+    }
+
+
+p 
+{
+font-size: 16x;
+color: withe;
+}
+
+
